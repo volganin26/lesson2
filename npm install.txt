@@ -1,0 +1,5 @@
+npm install
+npm run build      # Build for production
+npm run test       # Run unit tests
+npm run lint       # Run ESLint
+npm run type-check # Run TypeScript type checking
